@@ -388,7 +388,7 @@
       "title": "Cold Heart (PNAU Remix)",
       "subtitle": "Elton John & Dua Lipa",
       "images": "https://is5-ssl.mzstatic.com/image/thumb/Music126/v4/67/ae/70/67ae7043-0764-0fb0-b32d-b30be74b767a/21UMGIM74865.rgb.jpg/400x400cc.jpg",
-      "artists": ["elton-john", "dua-lipa"],
+      "artists": ["Elton John", "Dua Lipa"],
       "favorite": true,
       "id": 49
     },
@@ -396,7 +396,7 @@
       "title": "Позвони",
       "subtitle": "DJ Smash & NIVESTA",
       "images": "https://is3-ssl.mzstatic.com/image/thumb/Music122/v4/bf/1b/ce/bf1bce38-c018-bf71-4a93-d82221c00ea7/cover.jpg/400x400cc.jpg",
-      "artists": ["dj-smash", "nivesta"],
+      "artists": ["Dj Smash", "Nivesta"],
       "favorite": false,
       "id": 50
     }
